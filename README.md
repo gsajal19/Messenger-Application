@@ -1,4 +1,4 @@
-## Client-Server Communication
+## Messenger Application
 <Img src="https://gsajal19.github.io/Client_Server_communication/Screenshot/image.png" alt="imges" />
 
 ### Description
